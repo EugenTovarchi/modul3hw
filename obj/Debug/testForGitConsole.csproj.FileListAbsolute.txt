@@ -1,0 +1,7 @@
+C:\Users\Yudjine\source\repos\testForGitConsole\bin\Debug\testForGitConsole.exe.config
+C:\Users\Yudjine\source\repos\testForGitConsole\bin\Debug\testForGitConsole.exe
+C:\Users\Yudjine\source\repos\testForGitConsole\bin\Debug\testForGitConsole.pdb
+C:\Users\Yudjine\source\repos\testForGitConsole\obj\Debug\testForGitConsole.csproj.AssemblyReference.cache
+C:\Users\Yudjine\source\repos\testForGitConsole\obj\Debug\testForGitConsole.csproj.CoreCompileInputs.cache
+C:\Users\Yudjine\source\repos\testForGitConsole\obj\Debug\testForGitConsole.exe
+C:\Users\Yudjine\source\repos\testForGitConsole\obj\Debug\testForGitConsole.pdb
