@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,6 +13,7 @@ namespace testForGitConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Tes console git!");
+            Console.WriteLine(DataSetDateTime + "https://github.com/EugenTovarchi/modul3hw." );
         }
     }
 }
