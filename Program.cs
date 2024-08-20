@@ -13,7 +13,7 @@ namespace testForGitConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Tes console git!");
-            Console.WriteLine(DataSetDateTime + "https://github.com/EugenTovarchi/modul3hw." );
+            Console.WriteLine("test" + "https://github.com/EugenTovarchi/modul3hw." );
         }
     }
 }
